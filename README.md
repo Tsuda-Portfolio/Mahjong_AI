@@ -18,7 +18,7 @@ PyTorch + Transformer による**打牌判断専用**麻雀AIモデルです。
 
 ## 追記
 
-import mahjong_common as mjc
+import mahjong_common as mjc  
 import mahjong_loader as mjl
 
 これら2つは他の方のgithubに搭載されています。
